@@ -1,4 +1,4 @@
-"""Игра угадай число.
+"""Игра угадай число. 3 версия
 Компьютер будет сам загадывать и сам угадывать число"""
 
 import numpy as np
@@ -15,16 +15,18 @@ def smart_random_predict(number: int = 1) -> int:
         int: Число попыток
     """
     count = 0
-    predict = np.random.randint(1, 101)
     left_number = 0
     right_number = 101
+    
+    predict = np.random.randint(1, 101)
+  
     while number != predict:
         count += 1
         if number > predict:
-            left_number = predict
-            predict = (left_number + right_number) // 2
+            left_number = predict #сокращаем интервал поиска, так как знаем, что искомое больше
+            predict = (left_number + right_number) // 2 #ищем где-то в середине
         elif number < predict:
-            right_number = predict
+            right_number = predict  #сокращаем интервал поиска, так как знаем, что искомое меньше
             predict = (left_number + right_number) // 2
     return count
 
