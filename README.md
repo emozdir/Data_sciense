@@ -2,10 +2,10 @@
 
 ## Мои работы и проекты
 * *Проекты:*
-    * [Проект 1. Анализ резюме из HeadHunter](https://github.com/emozdir/project_1)
-    * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/emozdir/project_2/blob/main/Project-2.ipynb)
-    * [Проект 3. Прогнозирование рейтинга отелей booling.com](https://github.com/emozdir/project_3)
-    * [Проект 4. Задача классификации](https://github.com/emozdir/Project-4)
+    * [Проект 1. Анализ резюме из HeadHunter](https://github.com/emozdir/Projects/tree/master/projects/project_1)
+    * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/emozdir/Projects/tree/master/projects/project_2)
+    * [Проект 3. Прогнозирование рейтинга отелей booling.com](https://github.com/emozdir/Projects/tree/master/projects/project_3)
+    * [Проект 4. Задача классификации](https://github.com/emozdir/Projects/tree/master/projects/project_4)
 * *Практические работы по Python*:
     * [Игра: Угадай число](https://github.com/emozdir/Data_sciense/tree/main/project_0)
     * [Анализ данных об оттоке клиентов некоторого банка](https://github.com/emozdir/Data_sciense/blob/main/DST_01_13/)
