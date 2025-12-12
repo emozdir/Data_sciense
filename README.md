@@ -5,4 +5,4 @@
 * [Проект 1. Анализ данных об оттоке клиентов некоторого банка](https://github.com/emozdir/Data_sciense/blob/main/DST_01_13/)
 * [Проект 2. Очистка данных на Python](https://github.com/emozdir/DataCleaningProject)
 * [Проект 3. Прогнозирование рейтинга отелей booling.com](https://github.com/emozdir/project_3)
-* [Проект 4. Задача классификации]((https://github.com/emozdir/Project-4))
+* [Проект 4. Задача классификации](https://github.com/emozdir/Project-4)
