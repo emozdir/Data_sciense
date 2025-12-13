@@ -6,7 +6,7 @@
     * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/emozdir/Projects/tree/master/projects/project_2)
     * [Проект 3. Прогнозирование рейтинга отелей booling.com](https://github.com/emozdir/Projects/tree/master/projects/project_3)
     * [Проект 4. Задача классификации](https://github.com/emozdir/Projects/tree/master/projects/project_4)
-    * [Проект 5. Задача регрессии](https://github.com/emozdir/Projects/tree/master/projects/project_5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8)
+    * [Проект 5. Задача регрессии](https://github.com/emozdir/Projects/tree/master/projects/project_5)
 * *Практические работы по Python*:
     * [Игра: Угадай число](https://github.com/emozdir/Data_sciense/tree/main/project_0)
     * [Анализ данных об оттоке клиентов некоторого банка](https://github.com/emozdir/Data_sciense/blob/main/DST_01_13/)
