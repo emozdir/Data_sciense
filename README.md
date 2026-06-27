@@ -8,6 +8,7 @@
     * [Проект 4. Классификация клиентов банка (ML)](https://github.com/emozdir/Projects/tree/master/projects/project_4)
     * [Проект 5. Предсказание длительности поездок такси в Нью-Йорке (ML)](https://github.com/emozdir/Projects/tree/master/projects/project_5)
     * [Проект 6. Сегментация клиентов онлайн-магазина подарков (ML)](https://github.com/emozdir/Projects/tree/master/projects/project_6)
+    * [Диплом. Прогнозирование стоимости жилья для агентства недвижимости (ML)](https://github.com/emozdir/Projects/tree/master/projects/final_project)
 * *Практические работы по Python*:
     * [Игра: Угадай число](https://github.com/emozdir/Data_sciense/tree/main/project_0)
     * [Анализ данных об оттоке клиентов некоторого банка](https://github.com/emozdir/Data_sciense/blob/main/DST_01_13/)
